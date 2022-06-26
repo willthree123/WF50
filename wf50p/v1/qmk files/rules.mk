@@ -1,0 +1,21 @@
+# MCU name
+MCU = atmega32u4
+BOOTLOADER = caterina
+
+EXTRAKEY_ENABLE ?= yes	# Audio control and System control(+450)
+SPLIT_KEYBOARD = yes
+
+RGBLIGHT_ENABLE = yes
+RGBLIGHT_DRIVER = WS2812
+
+VIA_ENABLE = yes
+LTO_ENABLE = yes
+
+BOOTMAGIC_ENABLE = lite
+COMMAND_ENABLE = no
+CONSOLE_ENABLE = no
+MOUSEKEY_ENABLE = no
+MIDI_ENABLE ?= no
+NKRO_ENABLE = no
+SLEEP_LED_ENABLE ?= no
+UNICODE_ENABLE ?= no
