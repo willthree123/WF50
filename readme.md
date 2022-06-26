@@ -3,9 +3,9 @@
 
 WF50 is a 50-keys split keyboard.
 
-![WF50](/wf50/img1.png)
-![WF50](/wf50/img2.png)
-![WF50](/wf50/img3.png)
+![WF50](/wf50/img1.jpg)
+![WF50](/wf50/img2.jpg)
+![WF50](/wf50/img3.jpg)
 
 Keyboard Maintainer: [willthree123](https://github.com/willthree123/) Instagram: [@kok.sc_jesse](https://instagram.com/kok.sc_jesse)  
 Hardware Supported: ProMicro
@@ -20,9 +20,9 @@ Make example for this keyboard (after setting up your build environment):
 
 WF50P is a PCB version of WF50(50-keys split keyboard).
 
-![WF50](../wf50p/v1/img1.png)
-![WF50](../wf50p/v1/img2.png)
-![WF50](../wf50p/v1/img3.png)
+![WF50](wf50p/v1/img1.jpg)
+![WF50](wf50p/v1/img2.jpg)
+![WF50](wf50p/v1/img3.jpg)
 
 Keyboard Maintainer: [willthree123](https://github.com/willthree123/) Instagram: [@kok.sc_jesse](https://instagram.com/kok.sc_jesse)  
 Hardware Supported: ProMicro
